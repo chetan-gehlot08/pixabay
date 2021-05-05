@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Pixabay</string>
+    <string name="search_free_images">Search Free Images</string>
+    <string name="pixabay">Pixabay</string>
+    <string name="search">Search</string>
+    <string name="searched_image">Searched Image</string>
+    <string name="show_full_screen_image">Full Screen Image</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="validate_search_text">Please enter some text for image search</string>
+    <string name="no_result_for_the_query">No result for the query :(</string>
+    <string name="fingerprint_sensor_not_supported">Fingerprint Sensor not supported</string>
+    <string name="lock_settings_not_enabled">Lock screen security not enabled</string>
+    <string name="biometric_login_title">Biometric Authentication</string>
+    <string name="biometric_login_subtitle">Log in using your biometric credential</string>
+    <string name="cancel">Cancel</string>
+    <string name="auth_error">Authentication error: </string>
+    <string name="auth_success">Authentication succeeded!</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="fingerprint_security_not_enabled">Fingerprint security not enabled</string>
+
+    <!-- Biometric prompt attributes -->
+    <string name="prompt_title">Biometric Authentication</string>
+    <string name="prompt_subtitle">Log in using your biometric credential</string>
+    <string name="prompt_description">Description</string>
+    <string name="prompt_negative_text">Cancel</string>
+</resources>
