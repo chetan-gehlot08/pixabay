@@ -6,6 +6,17 @@ A simple android pixabay image list application to demonstrate the usage for cle
 # Description
 The depdendencies for the project are described in the Gradle script build.gradle of the app, just sync the project in Android Studio and you are ready to go :)
 
+# Components Used
+MVVM Architecture - Robust, testable, and maintainable app with classes for managing your UI component lifecycle and handling data persistence.
+Coroutines - A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
+Dagger hilt - Hilt provides a standard way to incorporate Dagger dependency injection into an Android application.
+AndroidX - AndroidX is a major improvement to the original Android Support Library
+Data Binding - Declaratively bind observable data to UI elements. 
+Lifecycles - Create a UI that automatically responds to lifecycle events. 
+LiveData - Build data objects that notify views when the underlying state changes.
+Glide - A fast and efficient open source media management and image loading framework for Android
+
+
 List of third party libraries used in the project so far
 
 * Retrofit/OKhttp - A type-safe REST client for Android and Java
